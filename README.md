@@ -2,6 +2,14 @@
 
 This project is an Admin Dashboard built with React, Vite, TailwindCSS, and JavaScript. It features various components including stats cards, charts, tables, and more to manage and visualize data effectively.
 
+## Light Mode 
+![image](https://github.com/user-attachments/assets/a371ac0b-5001-494b-8c6b-101b18ef1f7b)
+
+
+## Dark Mode 
+![image](https://github.com/user-attachments/assets/4ecef687-9525-4d3e-99d7-61fa9c868acb)
+
+
 ## Features
 
 - **Stats Cards**: Display key metrics such as total users, orders, products, reviews, sales, and expenses.
