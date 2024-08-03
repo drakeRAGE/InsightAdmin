@@ -1,4 +1,4 @@
-# Admin Dashboard
+# InsightAdmin
 
 This project is an Admin Dashboard built with React, Vite, TailwindCSS, and JavaScript. It features various components including stats cards, charts, tables, and more to manage and visualize data effectively.
 
